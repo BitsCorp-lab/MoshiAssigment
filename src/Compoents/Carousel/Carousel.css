@@ -1,0 +1,39 @@
+.corosel {
+    overflow: hidden;
+}
+
+.innerCorousel{
+    display: inline-flex;
+    transition: 0.3s;
+}
+
+.corouselItemCon {
+    border-radius: 7px;
+    background: black;
+    margin-right: 7px;
+    border: 2px solid white;
+}
+
+.corimg {
+    width: 400px;
+    height: 240px;
+}
+
+.corHead {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100.5%;
+    padding: 7px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.corTitle{
+    font-weight: 400;
+font-size: 24px;
+line-height: 100.5%;
+text-align: center;
+padding: 7px;
+color: #FFFFFF;
+}

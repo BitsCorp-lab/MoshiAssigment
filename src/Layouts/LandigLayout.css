@@ -1,0 +1,15 @@
+.layoutCon {
+    position: relative;
+}
+
+.navCon {
+    width: 100%;
+    z-index: 23;
+    background: white;
+    position: fixed;
+    top: 0;
+}
+
+.pageCon {
+    padding-top: 158px;
+}

@@ -1,0 +1,42 @@
+.secTeamCon {
+    background-color: #222020;
+    position: relative;
+}
+
+.secTeamHeader {
+    padding-left: 150px;
+    padding-top: 100px;
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.secTeamHead {
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100.5%;
+
+
+    color: #FFD318;
+}
+
+.navArrow {
+    margin-right: 80px;
+    display: flex;
+    gap: 10px;
+}
+
+.secTeamGrid {
+    padding-left: 100px;
+    padding-bottom: 60px;
+    position: relative;
+}
+
+.corCon {
+    position: absolute;
+    top: 60px;
+    z-index: 18;
+    left: 180px;
+
+}

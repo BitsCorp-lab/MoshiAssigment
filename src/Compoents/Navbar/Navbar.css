@@ -1,0 +1,24 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+
+.navLeft {
+    display: flex;
+    align-items: center;
+}
+
+.compName {
+    margin-left: 20px;
+}
+
+.icGrp {
+    display: flex;
+    gap: 10px;
+}

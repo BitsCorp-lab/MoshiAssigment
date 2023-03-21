@@ -1,0 +1,98 @@
+.secOrg {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background: #FFD318;
+    height: 1000px;
+    align-items: center;
+    font-family: appFont;
+}
+
+.orgStr {
+    position: absolute;
+    top: -229px;
+    opacity: 0.2;
+}
+
+.capsuleCon {
+    display: flex;
+    gap: 160px;
+}
+
+.capsuleOuter{
+    position: relative;
+}
+
+.curveTxOne{
+    position: absolute;
+    top: -31px;
+    right: -20px;
+}
+
+.curveTxMid{
+    position: absolute;
+    right: -50px;
+
+bottom: -75px;
+}
+
+.curveTxTwo{
+    position: absolute;
+    top: -31px;
+}
+
+.capsuleStr {
+    position: absolute;
+    top: 27px;
+}
+
+.capsulePerOne {
+    position: absolute;
+    bottom: 0;
+    width: 253px;
+    height: 274px;
+    background-color: #BC53DF;
+    opacity: 0.9;
+}
+
+.capsulePerTwo {
+    position: absolute;
+    bottom: 0;
+    width: 253px;
+    height: 126px;
+    background-color: #252BB5;
+    opacity: 0.9;
+}
+
+.capsulePerTx {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 113.2%;
+
+
+    bottom: 70px;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.capsuleTx {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100.5%;
+
+    text-align: center;
+    text-transform: capitalize;
+    color: #262626;
+}
+
+.capsule {
+    width: 253px;
+    height: 412px;
+    border-radius: 126.5px;
+    background-color: #FFFFFF;
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}

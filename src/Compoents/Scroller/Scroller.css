@@ -1,0 +1,11 @@
+.scroller{
+    position: fixed;
+    bottom: 0px;
+    width: 50px;
+    height: 80px;
+    border: 2px solid #000000;
+border-radius: 31.4896px;
+left: 50%;
+transform: translateX(50%);
+z-index: 999;
+}

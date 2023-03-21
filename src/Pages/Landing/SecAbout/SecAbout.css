@@ -1,0 +1,53 @@
+.secAbout {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 800px;
+}
+
+.sciStructure {
+    top: -309px;
+    position: absolute;
+    z-index: -9;
+    right: 0;
+}
+
+.aboutContent {
+    padding-left: 100px;
+    font-family: appFont;
+}
+
+.aboutHead {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 113.2%;
+
+
+
+    color: #000000;
+}
+
+.aboutTitle {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 113.2%;
+    /* or 32px */
+
+
+    color: #464646;
+}
+
+.aboutFooter{
+    font-weight: 100;
+font-size: 274px;
+line-height: 113.2%;
+position: absolute;
+bottom: 0;
+right: 0;
+
+
+background: linear-gradient(102.15deg, #AC4FDB 20.45%, #2D2DB7 58.86%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}

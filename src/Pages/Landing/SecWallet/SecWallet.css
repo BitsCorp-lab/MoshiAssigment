@@ -1,0 +1,91 @@
+.secWalletCon {
+    
+}
+
+.secWallet {
+    
+    display: flex;
+    box-sizing: border-box;
+}
+
+.secWalletLeft {
+    flex: 1;
+    padding-left: 100px;
+    background: #FFD318;
+    padding-bottom: 50px;
+
+}
+
+.secWalletHead {
+    margin-top: 60px;
+    display: flex;
+    gap: 13px;
+    align-items: center;
+}
+
+.secWalletTitle {
+    font-family: appFont;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100.5%;
+    color: #262626;
+    margin-top: 40px;
+}
+
+.walletFeturesOne {
+    display: flex;
+    justify-content: flex-end;
+    
+    padding-right: 55px;
+    padding-left: 55px;
+}
+
+.features {
+    padding: 25px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 23px;
+    width: 162px;
+    height: 123px;
+}
+
+.fetuColorOne {
+    background: #D7AF09;
+}
+
+.fetuColorTwo {
+    background: #C9A409;
+}
+
+.fetuColorThree {
+    background: #E1B706;
+    ;
+}
+
+
+.walletFeturesTwo {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    padding-right: 55px;
+}
+
+.featuresMargin{
+    margin-top: 46px;
+}
+
+.featuresMarginLg{
+    margin-top: 55px;
+}
+
+.secWalletRight {
+    flex: 1;
+    padding-left: 80px;
+    background: #222020;
+    padding-bottom: 50px;
+}
+
+.secWalletTitleColor{
+    color: #FFFFFF;
+}
